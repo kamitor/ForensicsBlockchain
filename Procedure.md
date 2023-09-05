@@ -159,7 +159,10 @@ Consult with legal experts or law enforcement if the loss involves significant v
 -   **Legal Consultation**: Seek legal advice from professionals experienced in blockchain and cryptocurrency cases. They can guide you on potential legal actions.
 
 ## EMERGENCY OPTIONS
+https://np.reddit.com/r/CryptoCurrency/comments/13h2mar/ama_on_rcryptocurrency_with_the_us_secret_service/ 
 
+https://np.reddit.com/r/CryptoCurrency/comments/yezl4u/my_adventure_as_a_crypto_bounty_hunter_and_some/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODMzOTQ2MSwtNTYxMjM1Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEzMDM3MTQ5OTksMTY2ODMzOTQ2MSwtNT
+YxMjM1Mjg3XX0=
 -->
