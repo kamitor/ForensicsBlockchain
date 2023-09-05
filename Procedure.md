@@ -81,6 +81,31 @@ Participate in blockchain and NFT communities to share details of the incident a
     
     -   GitHub Repository: [MEW on GitHub](https://github.com/MyEtherWallet/MyEtherWallet)    
 
+1.  **TestDisk**: TestDisk is a powerful open-source data recovery tool that can help recover lost partitions and repair the file system. It's available for multiple platforms, including Windows, macOS, and Linux.
+    
+    Website: [https://www.cgsecurity.org/wiki/TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
+    
+2.  **PhotoRec**: PhotoRec is another tool from the same developers as TestDisk, and it's designed specifically for file recovery. It can recover a wide range of file types, including documents, images, videos, and more.
+    
+    Website: [https://www.cgsecurity.org/wiki/PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+    
+3.  **DDRescue**: DDRescue is a data recovery tool that is designed to copy data from one file or block device to another while trying to rescue the good parts first. It's useful for recovering data from damaged or failing drives.
+    
+    Website: [https://www.gnu.org/software/ddrescue/ddrescue.html](https://www.gnu.org/software/ddrescue/ddrescue.html)
+    
+4.  **Scalpel**: Scalpel is a file carving tool that can be used to recover specific file types from a damaged or overwritten storage device. It's handy when you're looking for specific types of files, such as images or documents.
+    
+    GitHub Repository: [https://github.com/sleuthkit/scalpel](https://github.com/sleuthkit/scalpel)
+    
+5.  **PhotoRec**: As mentioned earlier, PhotoRec is a companion tool to TestDisk and is specifically focused on recovering digital photos and various other file formats.
+    
+    Website: [https://www.cgsecurity.org/wiki/PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+    
+6.  **RecuperaBit**: RecuperaBit is an open-source tool for Linux designed to recover deleted files from storage devices. It's particularly useful if you're dealing with damaged or overwritten storage media.
+    
+    GitHub Repository: [https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit)
+
+
 2.  **Tool Selection**: Choose a tool that matches your needs and budget. Many forensic tools offer free trials, which can be a good starting point.
     
 
@@ -133,5 +158,5 @@ Consult with legal experts or law enforcement if the loss involves significant v
 
 -   **Legal Consultation**: Seek legal advice from professionals experienced in blockchain and cryptocurrency cases. They can guide you on potential legal actions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTIzNTI4N119
+eyJoaXN0b3J5IjpbLTc0NDEwOTk3NCwtNTYxMjM1Mjg3XX0=
 -->
