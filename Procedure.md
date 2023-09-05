@@ -157,6 +157,9 @@ Encourage the individual to learn and implement best practices for securing digi
 Consult with legal experts or law enforcement if the loss involves significant value and criminal activity is suspected.
 
 -   **Legal Consultation**: Seek legal advice from professionals experienced in blockchain and cryptocurrency cases. They can guide you on potential legal actions.
+
+## EMERGENCY OPTIONS
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDEwOTk3NCwtNTYxMjM1Mjg3XX0=
+eyJoaXN0b3J5IjpbMTY2ODMzOTQ2MSwtNTYxMjM1Mjg3XX0=
 -->
